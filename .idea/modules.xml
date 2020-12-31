@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/elixir-game.iml" filepath="$PROJECT_DIR$/.idea/elixir-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hangman/.idea/hangman.iml" filepath="$PROJECT_DIR$/hangman/.idea/hangman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hangman/deps/inflex/.idea/inflex.iml" filepath="$PROJECT_DIR$/hangman/deps/inflex/.idea/inflex.iml" />
+    </modules>
+  </component>
+</project>
